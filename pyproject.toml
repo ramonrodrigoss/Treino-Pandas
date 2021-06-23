@@ -8,6 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 pandas = "^1.2.5"
 ipython = "^7.24.1"
+plotly = "^5.0.0"
 
 [tool.poetry.dev-dependencies]
 
